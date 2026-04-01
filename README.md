@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm currently Student of B.E Computer Engineering<br>I'm current learning in Cyber security field domain like Networking , SOC , Information security , Cybersecurity-related Certifications and courses<br>Ask me about python , c++ , c , bash scripting, html , css , Java Script<br>Fun Face - I have mastered the art of time management to such an extent that i once juggled three project simultaneously without compromising on quality or sanity.
+🎓 B.E. Computer Engineering Student
+
+🔐 Passionate about Cybersecurity
+• Networking
+• Security Operations Center (SOC)
+• Information Security
+• Cybersecurity Certifications & Courses
+
+💻 Technical Skills
+• Python
+• C / C++
+• Bash Scripting
+• HTML, CSS, JavaScript
+
+⚡ Fun Fact
+I’ve successfully managed three projects simultaneously without compromising quality or sanity — strong believer in effective time management.
+
 
 
 ## 🌐 Socials:
