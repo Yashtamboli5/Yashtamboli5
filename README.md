@@ -12,6 +12,7 @@
 • C / C++
 • Bash Scripting
 • HTML, CSS, JavaScript
+• Tools(Nmap, Wireshark , SQLMap etc ) 
 
 ⚡ Fun Fact
 I’ve successfully managed three projects simultaneously without compromising quality or sanity — strong believer in effective time management.
