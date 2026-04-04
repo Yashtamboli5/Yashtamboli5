@@ -14,6 +14,10 @@
 • HTML, CSS, JavaScript
 • Tools(Nmap, Wireshark , SQLMap etc ) 
 
+Certificates:- 
+• ComptTIA Linux+
+• CNSP
+
 ⚡ Fun Fact
 I’ve successfully managed three projects simultaneously without compromising quality or sanity — strong believer in effective time management.
 
